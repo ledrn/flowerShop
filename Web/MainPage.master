@@ -1,0 +1,85 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainPage.master.cs" Inherits="MainPage" %>
+<%@ Register src="HotSell.ascx" tagname="HotSell" tagprefix="uc1" %>
+<%@ Register src="Bottom.ascx" tagname="Bottom" tagprefix="uc2" %>
+<%@ Register src="Head.ascx" tagname="Head" tagprefix="uc3" %>
+<%@ Register src="ServiceCenter.ascx" tagname="ServiceCenter" tagprefix="uc4" %>
+<%@ Register src="GoodClass.ascx" tagname="GoodClass" tagprefix="uc5" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv=Content-Type content="text/html;charset=gb2312">
+    <title>鲜花速递网站</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <div id="mainpage">
+<form id="form1" runat="server">
+    <div id="mainhead">
+    
+        <uc3:Head ID="Head1" runat="server" />
+    
+    </div>
+    <div id="main">
+        <div id="mainleft">
+            <div id="maintopunderbanner"></div>
+            <div id="maintopunderbanner2"></div>
+            <div id="maintopsearchorder">
+            <div id="maintopsearchblank"></div>
+                订单查询：
+                <asp:TextBox ID="txtSearchOrderById"
+                    runat="server" Height="18px" BorderColor="#FCAEA1" 
+                    BorderStyle="Solid" BorderWidth="1px" Width="210px"></asp:TextBox>
+            </div>
+            <div id="maintopsearchorderbtn">
+                <asp:ImageButton ID="imgBtnSearch" runat="server" 
+                    ImageUrl="~/Image/main_top_search.jpg" onclick="imgBtnSearch_Click" />
+            </div>
+            <div id="maincenterright2">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </div>
+        </div>
+        <div id="mainright">
+            <div id="mainrightcenter">
+                
+               <div id="mainrightgoodclasstop"></div>
+                 <div id="mainrightgoodclassmain">
+                
+                     <uc5:GoodClass ID="GoodClass1" runat="server" />
+                
+                </div>
+                
+                <div class="mainrightblank"></div>
+                <div id="mainrighthotselltop"></div>
+                <div id="mainrighthotsellmain" >
+                    <div id="mainrighthotsellmainblank"></div>
+                    <div id="mainrighthotsell">
+                    
+                        <uc1:HotSell ID="HotSell1" runat="server" />
+                    
+                    </div>
+                </div>
+                <div class="mainrightblank"></div>
+                <div id="servicecenter">
+                
+                    <uc4:ServiceCenter ID="ServiceCenter1" runat="server" />
+                
+                </div>
+            </div>
+           
+        </div>
+    </div>
+    <div id="mainbottonline"></div>
+    <div id="mainbotton">
+        
+        <uc2:Bottom ID="Bottom1" runat="server" />
+        
+    </div>
+    </form>
+</div>
+</body>
+</html>

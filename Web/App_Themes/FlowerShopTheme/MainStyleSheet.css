@@ -1,0 +1,1618 @@
+﻿#adminloginpagemain
+{
+     background-color:#EFF4ED;
+     text-align:center;
+     font-size:12px;
+}
+#adminloginmain
+{
+     width:547px;
+     height:594px;
+}
+#adminlogintop
+{
+    background: url('../../Image/admin_login_top.jpg');
+    width:547px;
+    height:223px;
+}
+#adminloginbottom
+{
+    width:547px;
+    height:209px;
+    background: url('../../Image/admin_login_bottom.jpg');
+}
+#adminlogincenter
+{
+    width:547px;
+    height:162px;
+}
+#adminloginleft
+{
+    width:250px;
+    height:162px;
+    float:left;
+    background: url('../../Image/admin_login_left.jpg');
+}
+#adminloginright
+{
+    width:98px;
+    height:162px;
+    float:right;
+    background: url('../../Image/admin_login_right.jpg');
+}
+#adminlogincentermain
+{
+    width:199px;
+    height:162px;
+    float:left;
+    background: url('../../Image/admin_login_background.jpg') repeat-x;
+}
+#adminlogincentercontent
+{
+    width:199px;
+    height:115px;
+    text-align:left;
+    text-indent:2px;
+    line-height:30px;
+    vertical-align: middle;
+}
+#adminlogincenterbutton
+{
+    width:92px;
+    height:47px;
+}
+#adminlogincenterblank
+{
+    width:199px;
+    height:15px;
+}
+#userlogintop
+{
+    font-weight:bold;
+    text-align:center;
+    background-color:#F4F4F4;
+    width:210px;
+    height:23px;
+}
+#userloginpagemain
+{
+    margin-top:40px;
+    width:210px;
+    height:210px;
+    font-family: verdana, tahoma, sans-serif;
+    FONT-SIZE: 12px;
+    line-height:23px;
+    vertical-align:middle;
+    text-align:left;
+}
+#userlogintopinfo
+{
+    width:210px;
+    height:23px;
+    color:#666666;
+}
+#userloginbutton
+{
+    width:210px;
+    text-align:right;
+}
+#userlogininfo
+{
+    width:210px;
+    line-height:40px;
+}
+#mainpage
+{
+    background-color:#ffffff;
+    width:1000px;
+}
+#maintopline
+{
+    width:1000px;
+    height:6px;
+    font-size:6px;
+    background: url('../../Image/main_top_line.jpg') repeat-x;
+}
+#maintopbannerleft
+{
+    width:742px;
+    height:228px;
+    float:left;
+    background-image:url('../../Image/main_top_banner_left.jpg');
+}
+#maintopbannerright
+{
+    width:258px;
+    height:228px;
+    float:left;
+    background-image:url('../../Image/main_top_banner_right.jpg');
+}
+#maintopbanner
+{
+    width:1000px;
+}
+#maintopmenu
+{
+    width:1000px;
+    height:41px;
+    background-image:url('../../Image/main_top_menu.jpg');
+    text-align:right;
+    vertical-align:middle;
+}
+.mainmenu
+{
+    text-align:center;
+    vertical-align:middle;
+    width:74px;
+    line-height:41px;
+    font-size:14px;
+    font-weight:bolder;
+    color:#66107F;
+    text-decoration:none;
+
+}
+#maintopunderbanner
+{
+    width:734px;
+    height:26px;
+    float:left;
+    background-image:url('../../Image/main_top_banner_under.jpg');
+}
+#mainleft
+{
+    width:734px;
+    float:left;
+}
+#mainright
+{
+    float:right;
+    width:266px;
+    text-align:center;
+}
+#mainbottonline
+{
+    width:1000px;
+    height:8px;
+    font-size:8px;
+}
+#mainbotton
+{
+    width:1000px;
+    height:86px;
+    background-image:url('../../Image/main_botton.jpg');
+}
+#mainbottonmenu
+{
+    width:1000px;
+    height:45px;
+    text-align:center;
+}
+.bottonmenu
+{
+    height:45px;
+    text-align:center;
+    line-height:45px;
+    text-decoration:none;
+    color:#66107F;
+}
+#mainbottonmain
+{
+    width:1000px;
+    height:41px;
+    text-align:center;
+    color:#66107F;
+    line-height:36px;
+    font-size:12px;
+}
+#mainrightcenter
+{
+    width:247px;
+}
+#mainrighthotselltop
+{
+    width:247px;
+    height:30px;
+    background-image:url('../../Image/main_right_hotsell_top.jpg');
+}
+#mainrighthotsell
+{
+    text-align:center;
+}
+#mainrighthotsellmain
+{
+    width:245px;
+    height:370px;
+    border-color:#F9AFA2;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+}
+.mainrightblank
+{
+    height:8px;
+    font-size:8px;
+}
+#mainrightservicecentertop
+{
+    width:247px;
+    height:29px;
+    background-image:url('../../Image/main_right_servicecenter_top.jpg');
+}
+#mainrightservicecentermain
+{
+    width:245px;
+    height:233px;
+    border-color:#F9AFA2;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    text-align:center;
+}
+#mainrighthotsellmainblank
+{
+    width:4px;
+    font:4px;
+}
+#maintopunderbanner2
+{
+    width:342px;
+    height:63px;
+    float:left;
+    background:url('../../Image/main_top_banner_under2.jpg') no-repeat;
+}
+#maintopsearchorder
+{
+    width:305px;
+    height:63px;
+    float:left;
+    color:#FBA29E;
+    font-weight:bolder;
+     vertical-align:middle;
+ }
+#maintopsearchorderbtn
+{
+    width:87px;
+    height:63px;
+    float:right;
+}
+#maintopsearchblank
+{
+    width:305px;
+    height:28px;
+}
+#maincenterleftblank
+{
+    width:8px;
+    float:left;
+}
+#maincenterright
+{
+    width:734px;
+    float:right;
+}
+#maincenterright2
+{
+    width:734px;
+}
+#mainrightgoodclasstop
+{
+    width:247px;
+    height:30px;
+    background-image:url('../../Image/main_right_goodclass_top.jpg');
+}
+#mainrightgoodclassmain
+{
+    width:245px;
+    height:955px;
+    background-color:#FEEFF6;
+    border-color:#F9AFA2;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    text-align:center;
+}
+#mainrightgoodclassleft
+{
+    width:8px;
+    float:left;
+}
+#mainrightgoodclass
+{
+    width:237px;
+    float:right;
+}
+.agoodclass
+{
+    color:Black;
+    text-decoration:none;
+    font-size:12px;
+}
+#mainrightfriendlinktop
+{
+    width:247px;
+    height:30px;
+    background-image:url('../../Image/main_right_friendlink_top.jpg');
+}
+#mainrightfriendlinkmain
+{
+    width:245px;
+    height:215px;
+    border-color:#F9AFA2;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    text-align:center;
+}
+#mainrightfriendlinkblank
+{
+    height:4px;
+    font-size:4px;
+}
+#indexflowertitle
+{
+    width:734px;
+    height:33px;
+    background:url('../../Image/main_flower_title.jpg') no-repeat;
+}
+.indextitleline
+{
+    width:734px;
+    height:8px;
+    background:url('../../Image/main_title_line.jpg') no-repeat;
+}
+#indexflash
+{
+    width:706px;
+    height:86px;
+
+}
+#indexfriuttitle
+{
+    width:734px;
+    height:32px;
+    background:url('../../Image/main_friut_title.jpg') no-repeat;
+}
+.indextitleblank
+{
+    height:8px;
+    font-size:8px;
+}
+#indexcaketitle
+{
+    width:734px;
+    height:36px;
+    background:url('../../Image/main_cake_title.jpg') no-repeat;
+}
+#indexchocolatetitle
+{
+    width:734px;
+    height:42px;
+    background:url('../../Image/main_chocolate_title.jpg') no-repeat;
+}
+#indexflowernews
+{
+    width:356px;
+    height:220px;
+    float:left;
+}
+#indexflowernewsleftblank
+{
+    width:8px;
+    height:220px;
+    float:left;
+}
+#indexflowernewstop
+{
+    width:343px;
+    height:36px;
+    background-image:url('../../Image/main_flowernews_title.jpg');
+}
+#indexflowernewsmain
+{
+    width:341px;
+    height:180px;
+    border-color:#EFD5F2;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;
+    border-bottom:1px solid;
+    background-image:url('../../Image/main_flowernews_bg.gif');
+}
+
+#indexnewleague
+{
+    width:350px;
+    height:220px;
+    float:right;
+}
+#indexnewleaguerightblank
+{
+    width:4px;
+    height:220px;
+    float:right;
+}
+#indexnewleaguetop
+{
+    width:343px;
+    height:36px;
+    background-image:url('../../Image/main_newleague_title.jpg');
+}
+#indexnewleaguemain
+{
+    width:341px;
+    height:180px;
+    border-color:#EFD5F2;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    background-image:url('../../Image/main_flowernews_bg.gif');
+}
+#flowermain
+{
+    width:734px;
+}
+#flowerlinkpage
+{
+    font-size:12px;
+    font-weight:bold;
+    color:#752795;
+}
+#goodinfotitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/flowerinfo_title.jpg') no-repeat;
+}
+#goodinfotitleline
+{
+    width:734px;
+    height:8px;
+    font-size:4px;
+    background-image:url('../../Image/flowerinfo_title_line.jpg');
+}
+#goodinfomaintopleft
+{
+    width:373px;
+    float:left;
+}
+#goodinfomaintopleftpictop
+{
+    width:373px;
+    height:46px;
+    background-image:url('../../Image/flowerinfo_pic_top.jpg');
+}
+#goodinfomaintopleftpicleft
+{
+    width:43px;
+    height:316px;
+    float:left;
+    background-image:url('../../Image/flowerinfo_pic_left.jpg');
+}
+#goodinfomaintopleftpicright
+{
+    width:5px;
+    height:316px;
+    float:right;
+    background-image:url('../../Image/flowerinfo_pic_right.jpg');
+}
+#goodinfomaintopleftpicmain
+{
+    width:325px;
+    height:316px;
+    float:left;
+}
+#goodinfomaintopleftpic
+{
+    width:325px;
+    height:273px;
+    font-size:1px;
+}
+#goodinfomaintopleftpicbottom
+{
+    width:325px;
+    height:43px;
+    background-image:url('../../Image/flowerinfo_pic_bottom.jpg');
+}
+#goodinfomaintopright
+{
+    width:349px;
+    height:362px;
+    float:right;
+}
+#goodinfomainnote
+{
+    width:734px;
+}
+#goodinfomainnoteleft
+{
+    width:16px;
+    float:left;
+}
+#goodinfomain
+{
+    width:718px;
+    float:left;
+}
+#howtopaytitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/howtopay_title.jpg') no-repeat;
+}
+#howtopaytitleblank
+{
+    height:12px;
+    font-size:12px;
+}
+#howtopaymaintitle
+{
+    width:636px;
+    height:30px;
+    background-color:#E8C3EC;
+    border-color:#999999;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    border-top:1px solid;
+    font-weight:bolder;
+    line-height:30px;
+}
+#howtopaymaindatalist
+{
+    width:638px;
+    text-align:left;
+}
+#datalistpaytypeleft
+{
+    width:139px;
+    height:28px;
+    background-color:#E8C3EC;
+    border-color:#999999;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    line-height:28px;
+    float:left;
+}
+#datalistpaytyperight
+{
+    width:496px;
+    height:28px;
+    line-height:28px;
+    border-color:#999999;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    float:right;
+}
+#leagueqatitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/league_qa_title.jpg') no-repeat;
+}
+#leagueqatitlename
+{
+    width:686px;
+    height:50px;
+    line-height:50px;
+    font-size:16px;
+    font-weight:bolder;
+    color:#762697;
+    text-align:left;
+}
+#leagueqamain
+{
+    width:674px;
+    text-align:left;
+}
+#datalistleagueqatitle
+{
+    width:672px;
+    height:30px;
+    border-color:#999999;
+    border-top:1px solid;
+    border-right:1px solid;
+    border-left:1px solid;
+    border-bottom:1px solid;
+    line-height:30px;
+    background-color:#FDEAFF;
+    font-weight:bolder;
+}
+#datalistleagueqamain
+{
+    width:672px;
+    line-height:30px;
+    border-color:#999999;
+    border-right:1px solid;
+    border-left:1px solid;
+    border-bottom:1px solid;
+}
+#leagueqalinkpage
+{
+    font-size:12px;
+    color:#752795;
+    height:20px;
+    vertical-align:middle;
+    line-height:20px;
+}
+#leagueqablank
+{
+    height:20px;
+    font-size:20px;
+}
+#leaguesendtitlename
+{
+    width:686px;
+    height:50px;
+    line-height:50px;
+    font-size:14px;
+    font-weight:bolder;
+    color:#762697;
+    text-align:left;
+}
+#leaguesendtable
+{
+    width:638px;
+    text-align:left;
+}
+#leaguesendtabletitle
+{
+    line-height:50px; 
+    text-align:center; 
+    font-size:14px;
+    font-weight:bolder; 
+    background-color:#E8C3EC; 
+    border:1px solid #999999;
+}
+.leaguesendtableleft
+{
+    width:140px; 
+    border-bottom:1px solid; 
+    border-color:#999999; 
+    border-left:1px solid;
+    border-right:1px solid;
+    height:30px;
+    line-height:30px;
+    background-color:#FDEAFF;
+    float:left;
+}
+.leaguesendtableright
+{
+    width:495px;
+    border-color:#999999; 
+    border-bottom:1px solid;
+    border-right:1px solid;
+    height:30px;
+    line-height:30px;
+    float:right;
+    font-size:12px;
+}
+#leaguesendtableright2
+{
+    width:495px;
+    border-color:#999999; 
+    border-bottom:1px solid;
+    border-right:1px solid;
+    line-height:30px;
+    float:right;
+    height:136px;
+    font-size:1px;
+}
+#leaguesendtableleft2
+{
+    width:140px; 
+    border-bottom:1px solid; 
+    border-color:#999999; 
+    border-left:1px solid;
+    border-right:1px solid;
+    height:136px;
+    line-height:30px;
+    background-color:#FDEAFF;
+    float:left;
+}
+#leaguesendtablebottom
+{
+    width:620px;
+    text-align:right;
+    
+}
+#leaguesendsccess
+{
+    width:480px;
+    height:120px;
+    line-height:120px;
+    font-size:16px;
+    font-weight:bolder;
+    color:#762697;
+}
+#leaguesendsccessreturn
+{
+     width:480px;
+     height:40px;
+     line-height:40px;
+     text-align:right;
+}
+#orderqatitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/order_qa_title.jpg') no-repeat;
+}
+#orderqatitlename
+{
+    width:686px;
+    height:50px;
+    line-height:50px;
+    font-size:16px;
+    font-weight:bolder;
+    color:#762697;
+    text-align:left;
+}
+#orderqamain
+{
+    width:674px;
+    text-align:left;
+}
+#usercentertitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/usercenter_title.jpg') no-repeat;
+}
+#usercenterregistermain
+{
+    width:436px;
+    
+}
+#usercenterregistertitle
+{
+    height:50px;
+    line-height:50px;
+    font-weight:bolder;
+    color:#762697;
+    font-size:14px;
+}
+.usercenterregistertableleft
+{
+    width:80px;
+    height:28px;
+    line-height:28px;
+    background-color:#FDEAFF;
+    float:left;
+    text-align:left;
+    
+}
+.usercenterregistertableright
+{
+    height:28px;
+    line-height:28px;
+    width:350px;
+    float:right;
+    text-align:left;
+}
+#usercenterregistertableleft2
+{
+    width:80px;
+    height:52px;
+    line-height:52px;
+    background-color:#FDEAFF;
+    float:left;
+    text-align:left;
+}
+#usercenterregistertableright2
+{
+    height:50px;
+    line-height:50px;
+    width:350px;
+    float:right;
+    text-align:left;
+}
+#usercenterregisterbottom
+{
+    width:200px;
+    text-align:left
+}
+#usercentertitleblank
+{
+    height:20px;
+    line-height:20px;
+    font-size:20px;
+}
+#usercenterleft
+{
+    width:230px;
+    float:left;
+    line-height:50px;
+}
+#usercenterright
+{
+    width:500px;
+    float:right;
+    line-height:30px;
+    font-size:14px;
+}
+#usercenterupdateuserinfo
+{
+    width:500px;
+    float:right;
+    
+}
+#usercenterupdateuserinfotitle
+{
+    text-align:left;
+    font-size:14px;
+    font-weight:bolder;
+    height:30px;
+    line-height:30px
+}
+#usercenterupdateuserinfomain
+{
+    width:440px;
+}
+#usercenterorderright
+{
+    width:500px;
+    float:right;
+}
+#leaguetitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/league_title.jpg') no-repeat;
+}
+#usercenterordertitle
+{
+    width:490px;
+    height:40px;
+    line-height:40px;
+    font-size:12px;
+    font-weight:bolder;
+    text-align:left;
+}
+#usercentersendmessagemain
+{
+    width:500px;
+    float:right;
+}
+#usercentersendmessagetitle
+{
+    width:490px;
+    height:40px;
+    line-height:40px;
+    font-size:12px;
+    font-weight:bolder;
+    text-align:left;
+}
+#usercentersendmessagenameleft
+{
+    width:80px;
+    height:28px;
+    line-height:28px;
+    background-color:#FDEAFF;
+    float:left;
+    text-align:left;
+}
+#usercentersendmessagenameright
+{
+    height:28px;
+    line-height:28px;
+    width:415px;
+    float:right;
+    text-align:left;
+}
+#usercentersendmessagecontentleft
+{
+    width:80px;
+    height:120px;
+    line-height:120px;
+    background-color:#FDEAFF;
+    float:left;
+    text-align:left;
+}
+#usercentersendmessagecontentright
+{
+    height:120px;
+    line-height:120px;
+    width:415px;
+    float:right;
+    text-align:left;
+}
+#usercentersendmessagebutton
+{
+    width:415px;
+    float:left;
+}
+#usercentergetmessage
+{
+    width:500px;
+    float:right;
+}
+#usercentergetmessagetitle
+{
+    width:490px;
+    height:20px;
+    line-height:20px;
+    font-size:12px;
+    font-weight:bolder;
+    text-align:left;
+}
+#datalistgetmessagetitleleft
+{
+    width:80px;
+    height:28px;
+    line-height:28px;
+    background-color:#FDEAFF;
+    float:left;
+    text-align:left;
+    border-top:1px solid; 
+    border-color:#999999; 
+    border-left:1px solid;
+    border-right:1px solid;
+}
+#datalistgetmessagetitleright
+{
+    height:28px;
+    line-height:28px;
+    width:405px;
+    float:right;
+    text-align:left;
+    border-top:1px solid; 
+    border-color:#999999; 
+    border-right:1px solid;
+}
+#datalistgetmessagemainleft
+{
+    width:80px;
+    height:100px;
+    line-height:100px;
+    background-color:#FDEAFF;
+    float:left;
+    text-align:left;
+    border-top:1px solid; 
+    border-color:#999999; 
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+}
+#datalistgetmessagemainright
+{
+    height:100px;
+    line-height:100px;
+    width:405px;
+    float:right;
+    text-align:left;
+    border-top:1px solid; 
+    border-color:#999999; 
+    border-right:1px solid;
+    border-bottom:1px solid;
+}
+#datalistgetmessagemainblank
+{
+    height:4px;
+    width:400px;
+    font-size:4px;
+}
+#datalistgetmessagetimeleft
+{
+    width:80px;
+    height:28px;
+    line-height:28px;
+    background-color:#FDEAFF;
+    float:left;
+    text-align:left;
+    border-color:#999999; 
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+}
+#datalistgetmessagetimeright
+{
+    height:28px;
+    line-height:28px;
+    width:405px;
+    float:right;
+    text-align:left;
+    border-bottom:1px solid; 
+    border-color:#999999; 
+    border-right:1px solid;
+}
+#searchordertitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/searchorder_title.jpg') no-repeat;
+}
+#searchordermain
+{
+    width:600px;
+    height:120px;
+    line-height:60px;
+    font-size:14px;
+    color:#666666;
+    text-align:left;
+    font-weight:bolder;
+}
+#orderlisttitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/orderlist_title.jpg') no-repeat;
+}
+#orderlistmaintitle
+{
+    width:650px;
+    height:40px;
+    line-height:40px;
+    font-size:14px;
+    color:#3B6E0F;
+    text-align:left;
+    font-weight:bolder;
+}
+#orderlistmain
+{
+    width:660px;
+}
+#orderlistmaingoodlistsum
+{
+    width:648px;
+    text-align:right;
+    border-bottom:1px solid; 
+    border-color:#999999; 
+    border-right:1px solid;
+    border-left:1px solid;
+    height:28px;
+    line-height:28px;
+}
+#orderlistmainservicegoodleft
+{
+    width:90px;
+    float:left;
+    height:200px;
+    line-height:200px;
+    font-size:13px;
+    font-weight:bolder;
+    text-align:left;
+    color:#3B6E0F;
+    border-color:#999999; 
+    border-left:1px solid;
+}
+#orderlistmainservicegoodmain
+{
+    width:558px;
+    height:200px;
+    border-color:#999999; 
+    border-right:1px solid;
+    text-align:left;
+    float:right;
+    line-height:28px;
+}
+#orderlistmaingoodinfo
+{
+    width:648px;
+    height:58px;
+    text-align:left;
+    line-height:28px;
+    border-color:#999999; 
+    border:1px 1px 1px 1px solid;
+}
+#orderlistbutton
+{
+    width:400px;
+    height:50px;
+    line-height:50px;
+}
+#fillordertitle
+{
+    width:648px;
+    height:50px;
+    text-align:left;
+    color:#762697;
+    font-weight:bolder;
+    font-size:14px;
+    line-height:50px;
+}
+#fillorderbuytable
+{
+    width:650px;
+}
+.fillorderbuytabletitle
+{
+    width:648px;
+    height:32px;
+    line-height:32px;
+    font-size:14px;
+    font-weight:bolder;
+    border-color:#999999; 
+    border-top:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    background-color:#F3F3F3;
+    
+}
+.fillorderbuytableleft
+{
+    width:324px;
+    height:28px;
+    line-height:28px;
+    border-color:#999999; 
+    border-left:1px solid;
+    border-right:1px solid;
+    border-bottom:1px solid;
+    text-align:left;
+    float:left;
+}
+.fillorderbuytableright
+{
+    width:323px;
+    height:28px;
+    line-height:28px;
+    border-color:#999999; 
+
+    border-right:1px solid;
+    border-bottom:1px solid;
+    text-align:left;
+    float:right;
+}
+.fillorderbuytablebottom
+{
+    width:648px;
+    height:28px;
+    line-height:28px;
+    border-color:#999999; 
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;
+}
+.fillorderbuytableblank
+{
+    width:648px;
+    height:14px;
+    font-size:14px;
+}
+#fillordersendtype
+{
+    width:648px;
+    height:28px;
+    line-height:28px;
+    border-color:#999999;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;
+    background-color:#FFF5CF;
+}
+#fillorderpaytypeleft
+{
+    width:80px;
+    height:135px;
+    line-height:135px;
+    border-color:#999999;
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;
+    background-color:#FFF5CF;
+    float:left;
+}
+#fillorderpaytyperight
+{
+    width:566px;
+    height:135px;
+    line-height:20px;
+    border-color:#999999;
+    border-bottom:1px solid;
+    border-right:1px solid;
+    text-align:left;
+    float:right;
+}
+#fillordersendtime
+{
+    width:648px;
+    height:28px;
+    line-height:28px;
+    border-color:#999999;
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;
+    background-color:#FFF5CF;
+}
+#fillordersendperiodtime
+{
+    width:648px;
+    height:28px;
+    line-height:28px;
+    border-color:#999999;
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;
+    background-color:#FFF5CF;
+}
+#fillorderspecialorderleft
+{
+    width:280px;
+    height:100px;
+    background-color:#FFE7D0;
+    line-height:28px;
+    border-color:#999999;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;    
+    float:left;
+}
+#fillorderspecialorderright
+{
+    width:367px;
+    height:100px;
+    line-height:28px;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    border-right:1px solid;
+    text-align:left;    
+    float:right;
+    font-weight: 700;
+    border-left-color: #999999;
+}
+#fillordermessageleft
+{
+    width:106px;
+    height:106px;
+    background-color:#FFF0F1;
+    line-height:28px;
+    border-color:#999999;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;    
+    float:left;
+}
+#fillordermessageright
+{
+    width:540px;
+    height:106px;
+    line-height:28px;
+    border-color:#999999;
+    border-top:1px solid;
+    border-bottom:1px solid;
+    border-right:1px solid;
+    text-align:left;    
+    float:right;
+}
+#fillorderpennameleft
+{
+    width:106px;
+    height:30px;
+    background-color:#FFF0F1;
+    line-height:30px;
+    border-color:#999999;
+    border-bottom:1px solid;
+    border-left:1px solid;
+    border-right:1px solid;
+    text-align:left;    
+    float:left;
+}
+#fillorderpennameright
+{
+    width:540px;
+    height:30px;
+    line-height:30px;
+    border-color:#999999;
+    border-bottom:1px solid;
+    border-right:1px solid;
+    text-align:left;    
+    float:right;
+}
+#fillorderbutton
+{
+    width:540px;
+    height:40px;
+    line-height:40px;
+}
+#submitordermain
+{
+    width:650px;
+    line-height:28px;
+    height:100px;
+    text-align:left;
+    color:#666666;
+    
+}
+#submitorderbutton
+{
+    width:600px;
+    height:50px;
+    text-align:right;
+    line-height:50px;
+}
+#friutlisttitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/friutlist_title.jpg') no-repeat;
+}
+#cakelisttitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/cakelist_title.jpg') no-repeat;
+}
+#chocolatelisttitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/chocolatelist_title.jpg') no-repeat;
+}
+#afterselltitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/aftersell_title.jpg') no-repeat;
+}
+#aftersellmain
+{
+    width:650px;
+    line-height:28px;
+    text-align:left;
+}
+#aboutustitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/aboutus_title.jpg') no-repeat;
+}
+#sendareatitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/sendarea_title.jpg') no-repeat;
+}
+#sendareainfotitle
+{
+    width:650px;
+    text-align:left;
+    line-height:28px;
+    color:#666666;
+    height:60px;
+}
+#newlisttitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/newlist_title.jpg') no-repeat;
+}
+#newbgmain
+{
+    width:734px;
+    background:url('../../Image/newlist_img_bgmain.jpg') repeat-y;
+}
+#newlistimgtop
+{
+    width:734px;
+    height:47px;
+    background:url('../../Image/newlist_img_top.jpg') no-repeat;
+}
+#newlistimglefttop
+{
+    width:43px;
+    height:282px;
+    background:url('../../Image/newlist_img_left_top.jpg') no-repeat;
+}
+#newlistimgleft
+{
+    width:43px;
+    height:500px;
+    float:left;
+    background:url('../../Image/newlist_img_left_main.jpg') repeat-y;
+}
+#newlistimgleftmain
+{
+    width:43px;
+    height:218px;
+}
+#newlistimgright
+{
+    width:21px;
+    height:500px;
+    float:right;
+}
+#newlistmain
+{
+    float:left;
+    height:500px;
+    width:670px;
+}
+#newlistimgrighttop
+{
+    width:21px;
+    height:282px;
+    background:url('../../Image/newlist_img_right_top.jpg') no-repeat;
+}
+#newlistimgrightmain
+{
+    width:21px;
+    height:218px;
+   
+    background:url('../../Image/newlist_img_right_main.jpg') repeat-y;
+}
+#newlistimgbottom
+{
+    width:734px;
+    height:11px;
+    background:url('../../Image/newlist_img_bottom.jpg') no-repeat;
+}
+#newlistmain_top
+{
+    height:30px;
+    width:670px;
+}
+#newlistmain_datalist
+{
+    width:670px;
+    height:460px;
+   
+}
+#newinfomaintitle
+{
+    width:650px;
+    height:30px;
+    font-weight:bolder;
+    line-height:30px;
+    font-size:14px;
+    color:#762697;
+}
+#newinfomainline
+{
+    width:600px;
+    height:8px;
+    background:url('../../Image/newinfo_line.jpg') no-repeat;
+}
+#newinfomaintime
+{
+    width:300px;
+    height:30px;
+    color:#999999;
+    line-height:22px;
+}
+#newinfomaincontent
+{
+    width:620px;
+    line-height:22px;
+    color:#666666;
+    text-align:left;
+}
+#flowershoplisttitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/flowershop_title.jpg') no-repeat;
+}
+#flowershowlistblank
+{
+    height:30px;
+    line-height:30px;
+}
+#leagueflowtitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/leagueflow_title.jpg') no-repeat;
+}
+#leagueflowmaintitle
+{
+    width:600px;
+    height:40px;
+    line-height:40px;
+    font-size:14px;
+    font-weight:bolder;
+    color:#762697;
+    text-align:left;
+}
+#leagueflowmain
+{
+    width:600px;
+    line-height:28px;
+}
+.table_border1
+{
+    border-top:1px #999 solid;
+	border-right:1px #999 solid;
+    padding-top:5px;
+	padding-bottom:5px;
+	font-size: 12px;
+	padding-left:10px;
+	padding-left:10px;
+	line-height:18px;
+	}
+	
+.table_border
+{
+    border-bottom:1px #999 solid;
+    border-left:1px #999 solid;
+}
+#orderlistflow2
+{
+    width:636px;
+    height:43px;
+    background:url('../../Image/orderlistflow2.jpg') no-repeat;
+}
+#orderlistflow
+{
+    width:636px;
+    height:43px;
+    background:url('../../Image/orderlistflow.jpg') no-repeat;
+}
+#orderlistflow3
+{
+    width:636px;
+    height:43px;
+    background:url('../../Image/orderlistflow3.jpg') no-repeat;
+}
+#errortitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/error_title.jpg') no-repeat;
+}
+#errorimgtop
+{
+    width:734px;
+    height:46px;
+    background:url('../../Image/error_img_top.jpg') no-repeat;
+}
+#errorimgmain
+{
+    width:734;
+    height:302px;
+    background:url('../../Image/error_img_main.jpg') no-repeat;
+}
+#howtobuytitle
+{
+    width:734px;
+    height:41px;
+    background:url('../../Image/howtobuy_title.jpg') no-repeat;
+}
+.howtobuysteptitle
+{
+    width:620px;
+    height:30px;
+    line-height:30px;
+    background-color:#FDEAFF;
+    text-align:left;
+    font-weight:bolder;
+}
+#howtobuystep1
+{
+    width:620px;
+}
+#howtobuyblank
+{
+    height:12px;
+}
+#howtobuystep1main
+{
+    width:620px;
+    
+}
+#adminwelcome
+{
+    width:606px;
+    height:499px;
+}
+#adminwelcomeimg
+{
+    width:511px;
+    height:499px;
+    float:right;
+    background:url('../../Image/admin_welcome.gif') no-repeat;
+}
+#usercenterorderrightdatalist
+{
+    line-height:28px;
+}

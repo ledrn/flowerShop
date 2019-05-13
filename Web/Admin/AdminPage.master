@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminPage.master.cs" Inherits="Admin_AdminPage" %>
+
+<%@ Register src="LeftMenu.ascx" tagname="LeftMenu" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+ <div id="adminpagemain">
+    <form id="form1" runat="server">
+    <div id="adminmaintop"  >
+    </div>
+    <div id="adminmaintopline">
+    </div>
+    <div id="adminmain">
+        <div id="adminleft">
+            <div id="adminleftmenu">
+                
+                <uc1:LeftMenu ID="LeftMenu1" runat="server" />
+                
+            </div>
+        </div>
+        
+        <div id="adminleftline">
+            <div id="adminleftblank">
+            </div>
+            <div id="adminright">
+                <div id="adminrightline">
+                </div>
+                <div id="adminrightmain">
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+                    
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div id="adminbottomblank">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </form>
+</div>
+</body>
+</html>

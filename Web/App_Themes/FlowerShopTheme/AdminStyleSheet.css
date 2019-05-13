@@ -1,0 +1,226 @@
+﻿*
+{
+    margin:0px;
+    padding:0px;
+}
+body
+{
+    text-align:center;
+    font-size:12px;
+}
+#adminpagemain
+{
+    background-color:#EEEEEE;
+}
+#adminmaintopline{
+   width:786px;
+   font-size:8px;
+   height:8px;
+   background:url('../../Image/admin_topline.jpg') repeat-x
+}
+#adminmaintop
+{
+    width:786px;
+    height:169px;
+    background: url('../../Image/admin_top.jpg')
+}
+#adminmain
+{
+    width:786px;
+    height:100%;
+    background-color:#799AE1;
+}
+#adminleft
+{
+    width:169px;
+    height:100%;
+    background-color:#799AE1;
+    float:left;
+}
+#adminleftmenu
+{
+    margin-left:8px;
+    margin-top:8px;
+    text-align:left;
+}
+#adminleftline
+{
+    width:612px;
+    height:621px;
+    background:url('../../Image/adminleftline.jpg') repeat-y
+}
+#adminleftblank
+{
+    width:5px;   
+    float:left;
+}
+#adminright
+{
+    float:right;
+    width:607px;
+    height:635px;
+    background-color:#ffffff;
+}
+#adminrightline
+{
+    width:607px;
+    height:8px;
+    background:url('../../Image/adminrighttopline.jpg') repeat-x
+}
+#adminrightmain
+{
+    width:607px;
+}
+#adminnewPreview 
+{
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod=scale)
+}
+#adminbottomblank
+{
+    width:607px;
+    height:30px;
+    float:right;
+    background-color:#ffffff;
+}
+.adminbottonadd
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_add.jpg')
+    
+}
+.adminbottonupdate
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_update.jpg')
+}
+.adminbottondelete
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_delete.jpg')
+}
+.adminbottonsearch
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_search.jpg')
+}
+.adminbottonedit
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_edit.jpg')
+}
+.adminbottonupdatepwd
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_updatepwd.jpg')
+}
+.adminbottonreset
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_reset.jpg')
+}
+.adminbottonupdatefile
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_updatefile.jpg')
+}
+.adminbottonreturn
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_return.jpg')
+}
+.adminbottonresend
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_resend.jpg')
+}
+.adminbottonaccepting
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_accepting.jpg')
+}
+.adminbottonaccepted
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_accepted.jpg')
+}
+.adminbottoncancel
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_cancel.jpg')
+}
+.adminbottonview
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_view.jpg')
+}
+.admintextbox
+{
+    border:1px solid;
+    border-color:#999999;
+}
+.adminbottonauditing
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_auditing.jpg')
+}
+.adminbottonread
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_read.jpg')
+}
+.adminbottonpass
+{
+    width:52px;
+    height:19px;
+    border:0px;
+    cursor:hand;
+    background-image:url('../../Image/admin_button_pass.jpg')
+}
